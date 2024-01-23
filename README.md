@@ -1,4 +1,4 @@
-# LearnGitAtUVic
+# Learn Git At UVic
 
 This is to gauge your previous git skills
 
