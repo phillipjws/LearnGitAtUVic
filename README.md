@@ -4,13 +4,13 @@ This is to gauge your previous git skills
 
 We would like you to:
 
-    1. Create a clone of this repository
+    1. Clone of this repository
 
-    2. Create a new branch and name it *feature*
+    2. Create a new branch and name it feature
 
     3. Modify the output of the hello_world.py file to say goodbye world
 
-    4. Commit and push your changes to *feature*
+    4. Commit and push your changes to feature
 
     5. Merge your branch with main
 
