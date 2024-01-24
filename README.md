@@ -4,7 +4,7 @@ This is to gauge your previous git skills
 
 We would like you to:
 
-    1. Clone of this repository
+    1. Clone this repository
 
     2. Create a new branch and name it feature
 
