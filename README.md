@@ -15,5 +15,3 @@ We would like you to:
     5. Merge your branch with main
 
     6. View your commit history from the command line
-
-    7. Revert to a past commit, resetting this repo to its original state
